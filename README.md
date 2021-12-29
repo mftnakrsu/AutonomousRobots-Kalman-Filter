@@ -41,3 +41,7 @@ We have to implement 5 matrices go through the following 2 steps.
     
  You can see result of algorithm <code>"kalmanfilter.py"</code> :  
 [![IMAGE ALT TEXT HERE](https://github.com/mftnakrsu/AutonomousRobots-Kalman-Filter/blob/main/images/3.png)](https://www.youtube.com/embed/sAvfaQpiEv8)
+
+# TO DO:
+- [ ] 2D Kalman Filter
+- [ ] Kalman Filter Prediction
